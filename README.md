@@ -1,15 +1,13 @@
 # Module-End-Assignment-Python-For-Data-Analysis-Social-Media-Engagement-Analytics-
-Python for Data Analysis – Module End Assignment
+  
+Google Colab Link : https://colab.research.google.com/drive/1BJ49isr6k7BLOjF2G9V2-lD73FvbMg5b?usp=sharing
+## Social Media Engagement Analytics
 
-####Assignemt title
-
-Social Media Engagement Analytics
-
-## 1. Introduction
+### 1. Introduction
 
 This project is part of the Module-End Assignment for the Python for Data Analysis module. The objective is to analyse a social media engagement dataset using Python and understand the patterns and factors influencing user engagement.
 
-## 2. Objectives
+### 2. Objectives
 
 - Perform data loading and exploration.
 
@@ -69,10 +67,10 @@ It includes details such as age, gender, country, post type, post category, like
 
 - Analysed the results and identified key insights.
 
-##### 6. Conclusion
+#### 6. Conclusion
 
 Through this assignment, I gained practical experience in using Python for data analysis. I learned how to clean and prepare data, perform exploratory analysis, create different types of visualisations and interpret the results to identify useful insights from a dataset.
 
-##### Submitted By
+#### Submitted By
 
-###### Athira Saseendran
+##### Athira Saseendran
